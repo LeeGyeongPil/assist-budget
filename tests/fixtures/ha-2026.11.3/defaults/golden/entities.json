@@ -1,0 +1,699 @@
+{
+ "sensor.bathroom_sensor_hub_1_humidity": {
+  "names": "Bathroom Sensor Hub 1 Humidity",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "light.bathroom_sensor_hub_1_light": {
+  "names": "Bathroom Sensor Hub 1 Light",
+  "domain": "light",
+  "areas": "Bathroom"
+ },
+ "binary_sensor.bathroom_sensor_hub_1_motion": {
+  "names": "Bathroom Sensor Hub 1 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bathroom"
+ },
+ "sensor.bathroom_sensor_hub_1_temperature": {
+  "names": "Bathroom Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "sensor.bathroom_sensor_hub_2_humidity": {
+  "names": "Bathroom Sensor Hub 2 Humidity, Bathroom humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "light.bathroom_sensor_hub_2_light": {
+  "names": "Bathroom Sensor Hub 2 Light",
+  "domain": "light",
+  "areas": "Bathroom"
+ },
+ "switch.bathroom_sensor_hub_2_plug": {
+  "names": "Bathroom Sensor Hub 2 Plug",
+  "domain": "switch",
+  "areas": "Bathroom"
+ },
+ "sensor.bathroom_sensor_hub_2_temperature": {
+  "names": "Bathroom Sensor Hub 2 Temperature",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "sensor.bathroom_sensor_hub_3_temperature": {
+  "names": "Bathroom Sensor Hub 3 Temperature, Bathroom temperature please use this long alias",
+  "domain": "sensor"
+ },
+ "sensor.bathroom_sensor_hub_4_humidity": {
+  "names": "Bathroom Sensor Hub 4 Humidity",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "light.bathroom_sensor_hub_4_light": {
+  "names": "Bathroom Sensor Hub 4 Light",
+  "domain": "light",
+  "areas": "Bathroom"
+ },
+ "binary_sensor.bathroom_sensor_hub_4_motion": {
+  "names": "Bathroom Sensor Hub 4 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bathroom"
+ },
+ "switch.bathroom_sensor_hub_4_plug": {
+  "names": "Bathroom Sensor Hub 4 Plug",
+  "domain": "switch",
+  "areas": "Bathroom"
+ },
+ "light.bathroom_sensor_hub_5_light": {
+  "names": "Bathroom Sensor Hub 5 Light, Bathroom light please use this long alias",
+  "domain": "light",
+  "areas": "Bathroom"
+ },
+ "binary_sensor.bathroom_sensor_hub_5_motion": {
+  "names": "Bathroom Sensor Hub 5 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bathroom"
+ },
+ "sensor.bathroom_sensor_hub_5_temperature": {
+  "names": "Bathroom Sensor Hub 5 Temperature, Bathroom temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Bathroom"
+ },
+ "sensor.bedroom_sensor_hub_1_humidity": {
+  "names": "Bedroom Sensor Hub 1 Humidity",
+  "domain": "sensor",
+  "areas": "Bedroom, Master"
+ },
+ "binary_sensor.bedroom_sensor_hub_1_motion": {
+  "names": "Bedroom Sensor Hub 1 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bedroom, Master"
+ },
+ "switch.bedroom_sensor_hub_1_plug": {
+  "names": "Bedroom Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Bedroom, Master"
+ },
+ "sensor.bedroom_sensor_hub_1_temperature": {
+  "names": "Bedroom Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Bedroom, Master"
+ },
+ "sensor.bedroom_sensor_hub_2_humidity": {
+  "names": "Bedroom Sensor Hub 2 Humidity",
+  "domain": "sensor",
+  "areas": "Bedroom, Master"
+ },
+ "light.bedroom_sensor_hub_2_light": {
+  "names": "Bedroom Sensor Hub 2 Light",
+  "domain": "light",
+  "areas": "Bedroom, Master"
+ },
+ "switch.bedroom_sensor_hub_2_plug": {
+  "names": "Bedroom Sensor Hub 2 Plug",
+  "domain": "switch",
+  "areas": "Bedroom, Master"
+ },
+ "binary_sensor.bedroom_sensor_hub_3_motion": {
+  "names": "Bedroom Sensor Hub 3 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bedroom, Master"
+ },
+ "switch.bedroom_sensor_hub_3_plug": {
+  "names": "Bedroom Sensor Hub 3 Plug",
+  "domain": "switch",
+  "areas": "Bedroom, Master"
+ },
+ "sensor.bedroom_sensor_hub_4_humidity": {
+  "names": "Bedroom Sensor Hub 4 Humidity",
+  "domain": "sensor",
+  "areas": "Bedroom, Master"
+ },
+ "binary_sensor.bedroom_sensor_hub_4_motion": {
+  "names": "Bedroom Sensor Hub 4 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bedroom, Master"
+ },
+ "sensor.bedroom_sensor_hub_5_humidity": {
+  "names": "Bedroom Sensor Hub 5 Humidity",
+  "domain": "sensor"
+ },
+ "light.bedroom_sensor_hub_5_light": {
+  "names": "Bedroom Sensor Hub 5 Light",
+  "domain": "light"
+ },
+ "binary_sensor.bedroom_sensor_hub_5_motion": {
+  "names": "Bedroom Sensor Hub 5 Motion",
+  "domain": "binary_sensor"
+ },
+ "sensor.bedroom_sensor_hub_5_temperature": {
+  "names": "Bedroom Sensor Hub 5 Temperature, Bedroom temperature please use this long alias",
+  "domain": "sensor"
+ },
+ "sensor.bedroom_sensor_hub_6_humidity": {
+  "names": "Bedroom Sensor Hub 6 Humidity",
+  "domain": "sensor",
+  "areas": "Bedroom, Master"
+ },
+ "binary_sensor.bedroom_sensor_hub_6_motion": {
+  "names": "Bedroom Sensor Hub 6 Motion",
+  "domain": "binary_sensor",
+  "areas": "Bedroom, Master"
+ },
+ "switch.bedroom_sensor_hub_6_plug": {
+  "names": "Bedroom Sensor Hub 6 Plug",
+  "domain": "switch",
+  "areas": "Bedroom, Master"
+ },
+ "binary_sensor.front_door_legacy": {
+  "names": "Front Door",
+  "domain": "binary_sensor"
+ },
+ "binary_sensor.garage_sensor_hub_1_motion": {
+  "names": "Garage Sensor Hub 1 Motion",
+  "domain": "binary_sensor",
+  "areas": "Garage"
+ },
+ "switch.garage_sensor_hub_1_plug": {
+  "names": "Garage Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Garage"
+ },
+ "sensor.garage_sensor_hub_1_temperature": {
+  "names": "Garage Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Garage"
+ },
+ "sensor.garage_sensor_hub_2_humidity": {
+  "names": "Garage Sensor Hub 2 Humidity",
+  "domain": "sensor",
+  "areas": "Garage"
+ },
+ "switch.garage_sensor_hub_2_plug": {
+  "names": "Garage Sensor Hub 2 Plug",
+  "domain": "switch",
+  "areas": "Garage"
+ },
+ "sensor.garage_sensor_hub_2_temperature": {
+  "names": "Garage Sensor Hub 2 Temperature",
+  "domain": "sensor",
+  "areas": "Garage"
+ },
+ "light.garage_sensor_hub_3_light": {
+  "names": "Garage Sensor Hub 3 Light",
+  "domain": "light",
+  "areas": "Garage"
+ },
+ "binary_sensor.garage_sensor_hub_3_motion": {
+  "names": "Garage Sensor Hub 3 Motion",
+  "domain": "binary_sensor",
+  "areas": "Garage"
+ },
+ "switch.garage_sensor_hub_3_plug": {
+  "names": "Garage Sensor Hub 3 Plug, Garage plug please use this long alias",
+  "domain": "switch",
+  "areas": "Garage"
+ },
+ "sensor.garage_sensor_hub_3_temperature": {
+  "names": "Garage Sensor Hub 3 Temperature",
+  "domain": "sensor",
+  "areas": "Garage"
+ },
+ "binary_sensor.garage_sensor_hub_4_motion": {
+  "names": "Garage Sensor Hub 4 Motion",
+  "domain": "binary_sensor",
+  "areas": "Garage"
+ },
+ "light.garden_sensor_hub_1_light": {
+  "names": "Garden Sensor Hub 1 Light",
+  "domain": "light",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "switch.garden_sensor_hub_1_plug": {
+  "names": "Garden Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "sensor.garden_sensor_hub_1_temperature": {
+  "names": "Garden Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "switch.garden_sensor_hub_2_plug": {
+  "names": "Garden Sensor Hub 2 Plug, Garden plug please use this long alias",
+  "domain": "switch",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "sensor.garden_sensor_hub_3_humidity": {
+  "names": "Garden Sensor Hub 3 Humidity",
+  "domain": "sensor",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "binary_sensor.garden_sensor_hub_3_motion": {
+  "names": "Garden Sensor Hub 3 Motion",
+  "domain": "binary_sensor",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "switch.garden_sensor_hub_3_plug": {
+  "names": "Garden Sensor Hub 3 Plug",
+  "domain": "switch",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "sensor.garden_sensor_hub_3_temperature": {
+  "names": "Garden Sensor Hub 3 Temperature",
+  "domain": "sensor",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "sensor.garden_sensor_hub_4_humidity": {
+  "names": "Garden Sensor Hub 4 Humidity, Garden humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "light.garden_sensor_hub_4_light": {
+  "names": "Garden Sensor Hub 4 Light",
+  "domain": "light",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "switch.garden_sensor_hub_4_plug": {
+  "names": "Garden Sensor Hub 4 Plug",
+  "domain": "switch",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "light.garden_sensor_hub_5_light": {
+  "names": "Garden Sensor Hub 5 Light",
+  "domain": "light",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "switch.garden_sensor_hub_5_plug": {
+  "names": "Garden Sensor Hub 5 Plug",
+  "domain": "switch",
+  "areas": "Garden, Backyard, Yard"
+ },
+ "sensor.garden_sensor_hub_6_humidity": {
+  "names": "Garden Sensor Hub 6 Humidity",
+  "domain": "sensor"
+ },
+ "switch.garden_sensor_hub_6_plug": {
+  "names": "Garden Sensor Hub 6 Plug",
+  "domain": "switch"
+ },
+ "sensor.garden_temperature_legacy": {
+  "names": "Garden Temperature",
+  "domain": "sensor"
+ },
+ "light.kids_room_sensor_hub_1_light": {
+  "names": "Kids Room Sensor Hub 1 Light, Kids Room light please use this long alias",
+  "domain": "light",
+  "areas": "Kids Room"
+ },
+ "binary_sensor.kids_room_sensor_hub_1_motion": {
+  "names": "Kids Room Sensor Hub 1 Motion",
+  "domain": "binary_sensor",
+  "areas": "Kids Room"
+ },
+ "switch.kids_room_sensor_hub_1_plug": {
+  "names": "Kids Room Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_1_temperature": {
+  "names": "Kids Room Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "light.kids_room_sensor_hub_2_light": {
+  "names": "Kids Room Sensor Hub 2 Light, Kids Room light please use this long alias",
+  "domain": "light",
+  "areas": "Kids Room"
+ },
+ "binary_sensor.kids_room_sensor_hub_2_motion": {
+  "names": "Kids Room Sensor Hub 2 Motion",
+  "domain": "binary_sensor",
+  "areas": "Kids Room"
+ },
+ "switch.kids_room_sensor_hub_2_plug": {
+  "names": "Kids Room Sensor Hub 2 Plug, Kids Room plug please use this long alias",
+  "domain": "switch",
+  "areas": "Kids Room"
+ },
+ "binary_sensor.kids_room_sensor_hub_3_motion": {
+  "names": "Kids Room Sensor Hub 3 Motion",
+  "domain": "binary_sensor",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_3_temperature": {
+  "names": "Kids Room Sensor Hub 3 Temperature, Kids Room temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_4_humidity": {
+  "names": "Kids Room Sensor Hub 4 Humidity",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "binary_sensor.kids_room_sensor_hub_4_motion": {
+  "names": "Kids Room Sensor Hub 4 Motion",
+  "domain": "binary_sensor",
+  "areas": "Kids Room"
+ },
+ "switch.kids_room_sensor_hub_4_plug": {
+  "names": "Kids Room Sensor Hub 4 Plug",
+  "domain": "switch",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_4_temperature": {
+  "names": "Kids Room Sensor Hub 4 Temperature, Kids Room temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_5_humidity": {
+  "names": "Kids Room Sensor Hub 5 Humidity",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "light.kids_room_sensor_hub_5_light": {
+  "names": "Kids Room Sensor Hub 5 Light",
+  "domain": "light",
+  "areas": "Kids Room"
+ },
+ "binary_sensor.kids_room_sensor_hub_5_motion": {
+  "names": "Kids Room Sensor Hub 5 Motion",
+  "domain": "binary_sensor",
+  "areas": "Kids Room"
+ },
+ "switch.kids_room_sensor_hub_5_plug": {
+  "names": "Kids Room Sensor Hub 5 Plug",
+  "domain": "switch",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_5_temperature": {
+  "names": "Kids Room Sensor Hub 5 Temperature",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "sensor.kids_room_sensor_hub_6_humidity": {
+  "names": "Kids Room Sensor Hub 6 Humidity",
+  "domain": "sensor",
+  "areas": "Kids Room"
+ },
+ "light.kids_room_sensor_hub_6_light": {
+  "names": "Kids Room Sensor Hub 6 Light, Kids Room light please use this long alias",
+  "domain": "light",
+  "areas": "Kids Room"
+ },
+ "switch.kids_room_sensor_hub_6_plug": {
+  "names": "Kids Room Sensor Hub 6 Plug",
+  "domain": "switch",
+  "areas": "Kids Room"
+ },
+ "light.kitchen_sensor_hub_1_light": {
+  "names": "Kitchen Sensor Hub 1 Light, Kitchen light please use this long alias",
+  "domain": "light",
+  "areas": "Kitchen"
+ },
+ "switch.kitchen_sensor_hub_1_plug": {
+  "names": "Kitchen Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Kitchen"
+ },
+ "sensor.kitchen_sensor_hub_1_temperature": {
+  "names": "Kitchen Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Kitchen"
+ },
+ "sensor.kitchen_sensor_hub_2_humidity": {
+  "names": "Kitchen Sensor Hub 2 Humidity",
+  "domain": "sensor",
+  "areas": "Kitchen"
+ },
+ "light.kitchen_sensor_hub_2_light": {
+  "names": "Kitchen Sensor Hub 2 Light",
+  "domain": "light",
+  "areas": "Kitchen"
+ },
+ "switch.kitchen_sensor_hub_2_plug": {
+  "names": "Kitchen Sensor Hub 2 Plug",
+  "domain": "switch",
+  "areas": "Kitchen"
+ },
+ "sensor.kitchen_sensor_hub_2_temperature": {
+  "names": "Kitchen Sensor Hub 2 Temperature, Kitchen temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Kitchen"
+ },
+ "sensor.kitchen_sensor_hub_3_humidity": {
+  "names": "Kitchen Sensor Hub 3 Humidity, Kitchen humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Kitchen"
+ },
+ "light.kitchen_sensor_hub_3_light": {
+  "names": "Kitchen Sensor Hub 3 Light",
+  "domain": "light",
+  "areas": "Kitchen"
+ },
+ "light.kitchen_sensor_hub_4_light": {
+  "names": "Kitchen Sensor Hub 4 Light",
+  "domain": "light"
+ },
+ "sensor.kitchen_sensor_hub_4_temperature": {
+  "names": "Kitchen Sensor Hub 4 Temperature",
+  "domain": "sensor"
+ },
+ "binary_sensor.kitchen_sensor_hub_5_motion": {
+  "names": "Kitchen Sensor Hub 5 Motion",
+  "domain": "binary_sensor"
+ },
+ "sensor.kitchen_sensor_hub_5_temperature": {
+  "names": "Kitchen Sensor Hub 5 Temperature",
+  "domain": "sensor"
+ },
+ "light.kitchen_sensor_hub_6_light": {
+  "names": "Kitchen Sensor Hub 6 Light",
+  "domain": "light",
+  "areas": "Kitchen"
+ },
+ "switch.kitchen_sensor_hub_6_plug": {
+  "names": "Kitchen Sensor Hub 6 Plug",
+  "domain": "switch",
+  "areas": "Kitchen"
+ },
+ "sensor.kitchen_sensor_hub_6_temperature": {
+  "names": "Kitchen Sensor Hub 6 Temperature",
+  "domain": "sensor",
+  "areas": "Kitchen"
+ },
+ "light.living_room_sensor_hub_1_light": {
+  "names": "Living Room Sensor Hub 1 Light",
+  "domain": "light",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "binary_sensor.living_room_sensor_hub_1_motion": {
+  "names": "Living Room Sensor Hub 1 Motion",
+  "domain": "binary_sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "switch.living_room_sensor_hub_1_plug": {
+  "names": "Living Room Sensor Hub 1 Plug",
+  "domain": "switch",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_1_temperature": {
+  "names": "Living Room Sensor Hub 1 Temperature, Living Room temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "light.living_room_sensor_hub_2_light": {
+  "names": "Living Room Sensor Hub 2 Light, Living Room light please use this long alias",
+  "domain": "light",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "binary_sensor.living_room_sensor_hub_2_motion": {
+  "names": "Living Room Sensor Hub 2 Motion",
+  "domain": "binary_sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "switch.living_room_sensor_hub_2_plug": {
+  "names": "Living Room Sensor Hub 2 Plug, Living Room plug please use this long alias",
+  "domain": "switch",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_3_humidity": {
+  "names": "Living Room Sensor Hub 3 Humidity, Living Room humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "light.living_room_sensor_hub_3_light": {
+  "names": "Living Room Sensor Hub 3 Light",
+  "domain": "light",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "switch.living_room_sensor_hub_3_plug": {
+  "names": "Living Room Sensor Hub 3 Plug",
+  "domain": "switch",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_3_temperature": {
+  "names": "Living Room Sensor Hub 3 Temperature, Living Room temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_4_humidity": {
+  "names": "Living Room Sensor Hub 4 Humidity",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "binary_sensor.living_room_sensor_hub_4_motion": {
+  "names": "Living Room Sensor Hub 4 Motion",
+  "domain": "binary_sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_4_temperature": {
+  "names": "Living Room Sensor Hub 4 Temperature",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_5_humidity": {
+  "names": "Living Room Sensor Hub 5 Humidity",
+  "domain": "sensor"
+ },
+ "binary_sensor.living_room_sensor_hub_5_motion": {
+  "names": "Living Room Sensor Hub 5 Motion, Living Room motion please use this long alias",
+  "domain": "binary_sensor"
+ },
+ "switch.living_room_sensor_hub_5_plug": {
+  "names": "Living Room Sensor Hub 5 Plug",
+  "domain": "switch"
+ },
+ "sensor.living_room_sensor_hub_5_temperature": {
+  "names": "Living Room Sensor Hub 5 Temperature",
+  "domain": "sensor"
+ },
+ "light.living_room_sensor_hub_6_light": {
+  "names": "Living Room Sensor Hub 6 Light",
+  "domain": "light",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "switch.living_room_sensor_hub_6_plug": {
+  "names": "Living Room Sensor Hub 6 Plug",
+  "domain": "switch",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.living_room_sensor_hub_6_temperature": {
+  "names": "Living Room Sensor Hub 6 Temperature, Living Room temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Living Room, Lounge, 거실"
+ },
+ "sensor.office_sensor_hub_1_humidity": {
+  "names": "Office Sensor Hub 1 Humidity",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_1_light": {
+  "names": "Office Sensor Hub 1 Light, Office light please use this long alias",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "binary_sensor.office_sensor_hub_1_motion": {
+  "names": "Office Sensor Hub 1 Motion, Office motion please use this long alias",
+  "domain": "binary_sensor",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_1_temperature": {
+  "names": "Office Sensor Hub 1 Temperature",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_2_humidity": {
+  "names": "Office Sensor Hub 2 Humidity, Office humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_2_light": {
+  "names": "Office Sensor Hub 2 Light",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "switch.office_sensor_hub_2_plug": {
+  "names": "Office Sensor Hub 2 Plug",
+  "domain": "switch",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_2_temperature": {
+  "names": "Office Sensor Hub 2 Temperature, Office temperature please use this long alias",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_3_humidity": {
+  "names": "Office Sensor Hub 3 Humidity, Office humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "binary_sensor.office_sensor_hub_3_motion": {
+  "names": "Office Sensor Hub 3 Motion",
+  "domain": "binary_sensor",
+  "areas": "Office"
+ },
+ "switch.office_sensor_hub_3_plug": {
+  "names": "Office Sensor Hub 3 Plug",
+  "domain": "switch",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_4_humidity": {
+  "names": "Office Sensor Hub 4 Humidity",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_4_light": {
+  "names": "Office Sensor Hub 4 Light",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_5_humidity": {
+  "names": "Office Sensor Hub 5 Humidity, Office humidity please use this long alias",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_5_light": {
+  "names": "Office Sensor Hub 5 Light",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "binary_sensor.office_sensor_hub_5_motion": {
+  "names": "Office Sensor Hub 5 Motion",
+  "domain": "binary_sensor",
+  "areas": "Office"
+ },
+ "sensor.office_sensor_hub_5_temperature": {
+  "names": "Office Sensor Hub 5 Temperature",
+  "domain": "sensor",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_6_light": {
+  "names": "Office Sensor Hub 6 Light",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "binary_sensor.office_sensor_hub_6_motion": {
+  "names": "Office Sensor Hub 6 Motion",
+  "domain": "binary_sensor",
+  "areas": "Office"
+ },
+ "switch.office_sensor_hub_6_plug": {
+  "names": "Office Sensor Hub 6 Plug",
+  "domain": "switch",
+  "areas": "Office"
+ },
+ "light.office_sensor_hub_7_light": {
+  "names": "Office Sensor Hub 7 Light",
+  "domain": "light",
+  "areas": "Office"
+ },
+ "switch.office_sensor_hub_7_plug": {
+  "names": "Office Sensor Hub 7 Plug",
+  "domain": "switch",
+  "areas": "Office"
+ },
+ "light.porch_lamp_legacy": {
+  "names": "Porch Lamp",
+  "domain": "light"
+ }
+}

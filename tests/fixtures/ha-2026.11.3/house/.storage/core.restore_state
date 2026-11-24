@@ -1,0 +1,3355 @@
+{
+ "version": 1,
+ "minor_version": 1,
+ "key": "core.restore_state",
+ "data": [
+  {
+   "state": {
+    "entity_id": "light.living_room_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Living Room Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.living_room_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.living_room_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Living Room Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_1_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Living Room Sensor Hub 1 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.living_room_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Living Room Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.living_room_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Living Room Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.living_room_sensor_hub_2_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Living Room Sensor Hub 2 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.living_room_sensor_hub_2_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 2 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.living_room_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.living_room_sensor_hub_3_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 3 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_3_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Living Room Sensor Hub 3 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_3_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Living Room Sensor Hub 3 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.living_room_sensor_hub_3_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Living Room Sensor Hub 3 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_4_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Living Room Sensor Hub 4 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.living_room_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_4_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Living Room Sensor Hub 4 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Living Room Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_4_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Living Room Sensor Hub 4 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.living_room_sensor_hub_4_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Living Room Sensor Hub 4 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.living_room_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Living Room Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Living Room Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.living_room_sensor_hub_5_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 5 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.living_room_sensor_hub_5_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 5 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.living_room_sensor_hub_5_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 5 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_5_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Living Room Sensor Hub 5 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_5_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Living Room Sensor Hub 5 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.living_room_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.living_room_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Living Room Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.living_room_sensor_hub_6_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Living Room Sensor Hub 6 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_6_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Living Room Sensor Hub 6 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.living_room_sensor_hub_6_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Living Room Sensor Hub 6 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kitchen_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kitchen_sensor_hub_1_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 1 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kitchen_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kitchen Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kitchen_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kitchen Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_1_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 1 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_1_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kitchen Sensor Hub 1 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_2_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Kitchen Sensor Hub 2 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_2_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kitchen Sensor Hub 2 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kitchen_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kitchen Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kitchen_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_2_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 2 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_2_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kitchen Sensor Hub 2 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kitchen_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kitchen_sensor_hub_3_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kitchen Sensor Hub 3 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_3_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Kitchen Sensor Hub 3 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_3_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 3 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kitchen_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_4_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kitchen Sensor Hub 4 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kitchen_sensor_hub_4_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kitchen Sensor Hub 4 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kitchen_sensor_hub_4_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 4 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kitchen_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kitchen Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kitchen Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_5_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 5 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kitchen_sensor_hub_5_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 5 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kitchen_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_6_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kitchen Sensor Hub 6 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kitchen_sensor_hub_6_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kitchen Sensor Hub 6 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_6_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 6 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kitchen_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kitchen_sensor_hub_7_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kitchen Sensor Hub 7 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_7_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kitchen Sensor Hub 7 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kitchen_sensor_hub_7_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kitchen Sensor Hub 7 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_1_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bedroom Sensor Hub 1 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.bedroom_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bedroom_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bedroom Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_1_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 1 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bedroom_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_1_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bedroom Sensor Hub 1 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bedroom Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bedroom_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_2_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bedroom Sensor Hub 2 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bedroom_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bedroom Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.bedroom_sensor_hub_2_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 2 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_2_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 2 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bedroom_sensor_hub_3_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 3 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bedroom_sensor_hub_3_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bedroom Sensor Hub 3 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_3_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 3 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bedroom_sensor_hub_4_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bedroom Sensor Hub 4 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bedroom Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_5_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 5 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bedroom Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_5_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bedroom Sensor Hub 5 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bedroom_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bedroom Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_5_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bedroom Sensor Hub 5 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.bedroom_sensor_hub_5_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 5 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bedroom_sensor_hub_5_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bedroom Sensor Hub 5 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_6_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bedroom Sensor Hub 6 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bedroom_sensor_hub_6_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bedroom Sensor Hub 6 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bedroom_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bedroom_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bedroom Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bedroom_sensor_hub_6_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bedroom Sensor Hub 6 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Office Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_1_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Office Sensor Hub 1 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.office_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Office Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_1_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Office Sensor Hub 1 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_1_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 1 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_2_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Office Sensor Hub 2 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.office_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_2_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Office Sensor Hub 2 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_2_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 2 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_2_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Office Sensor Hub 2 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_2_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 2 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_3_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Office Sensor Hub 3 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_3_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Office Sensor Hub 3 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.office_sensor_hub_3_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 3 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.office_sensor_hub_3_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 3 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_3_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 3 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.office_sensor_hub_3_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Office Sensor Hub 3 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.office_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Office Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_4_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 4 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_4_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 4 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.office_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Office Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_5_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Office Sensor Hub 5 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Office Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_5_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 5 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_5_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 5 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.office_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_6_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 6 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.office_sensor_hub_6_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Office Sensor Hub 6 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.office_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_6_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 6 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_6_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Office Sensor Hub 6 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_6_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 6 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.office_sensor_hub_7_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 7 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_7_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Office Sensor Hub 7 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.office_sensor_hub_7_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Office Sensor Hub 7 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.office_sensor_hub_7_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Office Sensor Hub 7 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.office_sensor_hub_7_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Office Sensor Hub 7 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garage_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.garage_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Garage Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Garage Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_1_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garage Sensor Hub 1 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garage_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_2_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Garage Sensor Hub 2 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_2_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garage Sensor Hub 2 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garage_sensor_hub_2_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 2 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garage_sensor_hub_2_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 2 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garage_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_2_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Garage Sensor Hub 2 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_2_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Garage Sensor Hub 2 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.garage_sensor_hub_3_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Garage Sensor Hub 3 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_3_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garage Sensor Hub 3 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_3_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Garage Sensor Hub 3 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garage_sensor_hub_3_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 3 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garage_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_3_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Garage Sensor Hub 3 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.garage_sensor_hub_3_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Garage Sensor Hub 3 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.garage_sensor_hub_4_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Garage Sensor Hub 4 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garage_sensor_hub_4_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garage Sensor Hub 4 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garage_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garage Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garden_sensor_hub_1_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 1 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_1_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Garden Sensor Hub 1 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.garden_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Garden Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Garden Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_2_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garden Sensor Hub 2 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garden_sensor_hub_2_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 2 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_3_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Garden Sensor Hub 3 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.garden_sensor_hub_3_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Garden Sensor Hub 3 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garden_sensor_hub_3_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 3 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garden_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_3_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Garden Sensor Hub 3 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_3_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 3 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_3_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garden Sensor Hub 3 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Garden Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_4_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 4 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.garden_sensor_hub_4_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Garden Sensor Hub 4 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garden_sensor_hub_5_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 5 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.garden_sensor_hub_5_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Garden Sensor Hub 5 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_5_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Garden Sensor Hub 5 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garden_sensor_hub_5_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 5 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_5_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Garden Sensor Hub 5 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_5_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 5 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_6_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Garden Sensor Hub 6 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.garden_sensor_hub_6_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 6 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.garden_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_sensor_hub_6_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Garden Sensor Hub 6 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.garden_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Garden Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bathroom Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bathroom_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bathroom Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_1_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bathroom Sensor Hub 1 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bathroom_sensor_hub_1_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 1 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bathroom_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bathroom Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bathroom_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_2_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bathroom Sensor Hub 2 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_2_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bathroom Sensor Hub 2 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bathroom_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bathroom Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bathroom_sensor_hub_2_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 2 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_2_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Bathroom Sensor Hub 2 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_3_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bathroom Sensor Hub 3 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_3_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bathroom Sensor Hub 3 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.bathroom_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bathroom_sensor_hub_4_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bathroom Sensor Hub 4 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bathroom_sensor_hub_4_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bathroom Sensor Hub 4 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.bathroom_sensor_hub_4_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 4 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.bathroom_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Bathroom Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Bathroom Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_4_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bathroom Sensor Hub 4 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.bathroom_sensor_hub_5_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Bathroom Sensor Hub 5 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_5_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Bathroom Sensor Hub 5 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.bathroom_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Bathroom Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.bathroom_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Bathroom Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kids_room_sensor_hub_1_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 1 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kids_room_sensor_hub_1_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kids Room Sensor Hub 1 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kids_room_sensor_hub_1_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kids Room Sensor Hub 1 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_1_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kids Room Sensor Hub 1 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_1_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kids Room Sensor Hub 1 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kids_room_sensor_hub_2_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kids Room Sensor Hub 2 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kids_room_sensor_hub_2_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kids Room Sensor Hub 2 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_2_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kids Room Sensor Hub 2 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kids_room_sensor_hub_2_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 2 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kids_room_sensor_hub_2_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 2 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kids_room_sensor_hub_2_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 2 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_3_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kids Room Sensor Hub 3 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kids_room_sensor_hub_3_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 3 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_3_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kids Room Sensor Hub 3 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_3_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kids Room Sensor Hub 3 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kids_room_sensor_hub_3_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kids Room Sensor Hub 3 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_4_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Kids Room Sensor Hub 4 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kids_room_sensor_hub_4_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 4 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_4_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kids Room Sensor Hub 4 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kids_room_sensor_hub_4_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 4 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_4_signal_strength",
+    "state": "-61",
+    "attributes": {
+     "unit_of_measurement": "dBm",
+     "device_class": "signal_strength",
+     "friendly_name": "Kids Room Sensor Hub 4 Signal strength"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kids_room_sensor_hub_4_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 4 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kids_room_sensor_hub_4_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kids Room Sensor Hub 4 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_5_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Kids Room Sensor Hub 5 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.kids_room_sensor_hub_5_motion",
+    "state": "off",
+    "attributes": {
+     "device_class": "motion",
+     "friendly_name": "Kids Room Sensor Hub 5 Motion"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_5_temperature",
+    "state": "21.4",
+    "attributes": {
+     "unit_of_measurement": "°C",
+     "device_class": "temperature",
+     "friendly_name": "Kids Room Sensor Hub 5 Temperature"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kids_room_sensor_hub_5_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 5 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kids_room_sensor_hub_5_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kids Room Sensor Hub 5 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kids_room_sensor_hub_5_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 5 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kids_room_sensor_hub_5_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 5 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_6_battery",
+    "state": "87",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "battery",
+     "friendly_name": "Kids Room Sensor Hub 6 Battery"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.kids_room_sensor_hub_6_light",
+    "state": "on",
+    "attributes": {
+     "brightness": 180,
+     "friendly_name": "Kids Room Sensor Hub 6 Light"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "switch.kids_room_sensor_hub_6_plug",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 6 Plug"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "button.kids_room_sensor_hub_6_identify",
+    "state": "unknown",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 6 Identify"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.kids_room_sensor_hub_6_humidity",
+    "state": "48",
+    "attributes": {
+     "unit_of_measurement": "%",
+     "device_class": "humidity",
+     "friendly_name": "Kids Room Sensor Hub 6 Humidity"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "update.kids_room_sensor_hub_6_firmware",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Kids Room Sensor Hub 6 Firmware"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "script.good_night",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Good Night"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "script.movie_mode",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Movie Mode"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "script.leaving_home",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Leaving Home"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sun.sun",
+    "state": "above_horizon",
+    "attributes": {
+     "friendly_name": "Sun"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "weather.home",
+    "state": "sunny",
+    "attributes": {
+     "friendly_name": "Home Weather"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "light.porch_lamp_legacy",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Porch Lamp"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.garden_temperature_legacy",
+    "state": "12.0",
+    "attributes": {
+     "friendly_name": "Garden Temperature",
+     "device_class": "temperature",
+     "unit_of_measurement": "°C"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "sensor.uptime_legacy",
+    "state": "42",
+    "attributes": {
+     "friendly_name": "Uptime"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "state": {
+    "entity_id": "binary_sensor.front_door_legacy",
+    "state": "off",
+    "attributes": {
+     "friendly_name": "Front Door",
+     "device_class": "door"
+    },
+    "last_changed": "2026-11-24T00:00:00+00:00"
+   },
+   "extra_data": null,
+   "last_seen": "2026-11-24T00:00:00+00:00"
+  }
+ ]
+}

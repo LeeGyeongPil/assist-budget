@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "minor_version": 9,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [
+          "Lounge",
+          "거실"
+        ],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "living_room",
+        "labels": [],
+        "name": "Living Room",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.215956+00:00",
+        "modified_at": "2026-11-23T23:42:51.215957+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "kitchen",
+        "labels": [],
+        "name": "Kitchen",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216010+00:00",
+        "modified_at": "2026-11-23T23:42:51.216010+00:00"
+      },
+      {
+        "aliases": [
+          "Master"
+        ],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "bedroom",
+        "labels": [],
+        "name": "Bedroom",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216026+00:00",
+        "modified_at": "2026-11-23T23:42:51.216026+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "office",
+        "labels": [],
+        "name": "Office",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216037+00:00",
+        "modified_at": "2026-11-23T23:42:51.216037+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "garage",
+        "labels": [],
+        "name": "Garage",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216046+00:00",
+        "modified_at": "2026-11-23T23:42:51.216046+00:00"
+      },
+      {
+        "aliases": [
+          "Backyard",
+          "Yard"
+        ],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "garden",
+        "labels": [],
+        "name": "Garden",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216056+00:00",
+        "modified_at": "2026-11-23T23:42:51.216057+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "bathroom",
+        "labels": [],
+        "name": "Bathroom",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216065+00:00",
+        "modified_at": "2026-11-23T23:42:51.216066+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "kids_room",
+        "labels": [],
+        "name": "Kids Room",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-11-23T23:42:51.216073+00:00",
+        "modified_at": "2026-11-23T23:42:51.216074+00:00"
+      }
+    ]
+  }
+}

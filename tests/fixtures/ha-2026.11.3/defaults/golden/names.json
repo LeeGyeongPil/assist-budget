@@ -1,0 +1,807 @@
+{
+ "binary_sensor.bathroom_sensor_hub_1_motion": [
+  "Bathroom Sensor Hub 1 Motion"
+ ],
+ "binary_sensor.bathroom_sensor_hub_4_motion": [
+  "Bathroom Sensor Hub 4 Motion"
+ ],
+ "binary_sensor.bathroom_sensor_hub_5_motion": [
+  "Bathroom Sensor Hub 5 Motion"
+ ],
+ "binary_sensor.bedroom_sensor_hub_1_motion": [
+  "Bedroom Sensor Hub 1 Motion"
+ ],
+ "binary_sensor.bedroom_sensor_hub_3_motion": [
+  "Bedroom Sensor Hub 3 Motion"
+ ],
+ "binary_sensor.bedroom_sensor_hub_4_motion": [
+  "Bedroom Sensor Hub 4 Motion"
+ ],
+ "binary_sensor.bedroom_sensor_hub_5_motion": [
+  "Bedroom Sensor Hub 5 Motion"
+ ],
+ "binary_sensor.bedroom_sensor_hub_6_motion": [
+  "Bedroom Sensor Hub 6 Motion"
+ ],
+ "binary_sensor.garage_sensor_hub_1_motion": [
+  "Garage Sensor Hub 1 Motion"
+ ],
+ "binary_sensor.garage_sensor_hub_3_motion": [
+  "Garage Sensor Hub 3 Motion"
+ ],
+ "binary_sensor.garage_sensor_hub_4_motion": [
+  "Garage Sensor Hub 4 Motion"
+ ],
+ "binary_sensor.garden_sensor_hub_3_motion": [
+  "Garden Sensor Hub 3 Motion"
+ ],
+ "binary_sensor.kids_room_sensor_hub_1_motion": [
+  "Kids Room Sensor Hub 1 Motion"
+ ],
+ "binary_sensor.kids_room_sensor_hub_2_motion": [
+  "Kids Room Sensor Hub 2 Motion"
+ ],
+ "binary_sensor.kids_room_sensor_hub_3_motion": [
+  "Kids Room Sensor Hub 3 Motion"
+ ],
+ "binary_sensor.kids_room_sensor_hub_4_motion": [
+  "Kids Room Sensor Hub 4 Motion"
+ ],
+ "binary_sensor.kids_room_sensor_hub_5_motion": [
+  "Kids Room Sensor Hub 5 Motion"
+ ],
+ "binary_sensor.kitchen_sensor_hub_5_motion": [
+  "Kitchen Sensor Hub 5 Motion"
+ ],
+ "binary_sensor.living_room_sensor_hub_1_motion": [
+  "Living Room Sensor Hub 1 Motion"
+ ],
+ "binary_sensor.living_room_sensor_hub_2_motion": [
+  "Living Room Sensor Hub 2 Motion"
+ ],
+ "binary_sensor.living_room_sensor_hub_4_motion": [
+  "Living Room Sensor Hub 4 Motion"
+ ],
+ "binary_sensor.living_room_sensor_hub_5_motion": [
+  "Living Room Sensor Hub 5 Motion",
+  "Living Room motion please use this long alias"
+ ],
+ "binary_sensor.office_sensor_hub_1_motion": [
+  "Office Sensor Hub 1 Motion",
+  "Office motion please use this long alias"
+ ],
+ "binary_sensor.office_sensor_hub_3_motion": [
+  "Office Sensor Hub 3 Motion"
+ ],
+ "binary_sensor.office_sensor_hub_5_motion": [
+  "Office Sensor Hub 5 Motion"
+ ],
+ "binary_sensor.office_sensor_hub_6_motion": [
+  "Office Sensor Hub 6 Motion"
+ ],
+ "button.bathroom_sensor_hub_1_identify": [
+  "Bathroom Sensor Hub 1 Identify"
+ ],
+ "button.bathroom_sensor_hub_2_identify": [
+  "Bathroom Sensor Hub 2 Identify"
+ ],
+ "button.bathroom_sensor_hub_4_identify": [
+  "Bathroom Sensor Hub 4 Identify",
+  "Bathroom identify please use this long alias"
+ ],
+ "button.bedroom_sensor_hub_1_identify": [
+  "Bedroom Sensor Hub 1 Identify"
+ ],
+ "button.bedroom_sensor_hub_2_identify": [
+  "Bedroom Sensor Hub 2 Identify"
+ ],
+ "button.bedroom_sensor_hub_3_identify": [
+  "Bedroom Sensor Hub 3 Identify"
+ ],
+ "button.bedroom_sensor_hub_4_identify": [
+  "Bedroom Sensor Hub 4 Identify"
+ ],
+ "button.bedroom_sensor_hub_5_identify": [
+  "Bedroom Sensor Hub 5 Identify",
+  "Bedroom identify please use this long alias"
+ ],
+ "button.bedroom_sensor_hub_6_identify": [
+  "Bedroom Sensor Hub 6 Identify"
+ ],
+ "button.garage_sensor_hub_2_identify": [
+  "Garage Sensor Hub 2 Identify"
+ ],
+ "button.garage_sensor_hub_4_identify": [
+  "Garage Sensor Hub 4 Identify"
+ ],
+ "button.garden_sensor_hub_2_identify": [
+  "Garden Sensor Hub 2 Identify"
+ ],
+ "button.garden_sensor_hub_3_identify": [
+  "Garden Sensor Hub 3 Identify"
+ ],
+ "button.garden_sensor_hub_5_identify": [
+  "Garden Sensor Hub 5 Identify"
+ ],
+ "button.garden_sensor_hub_6_identify": [
+  "Garden Sensor Hub 6 Identify",
+  "Garden identify please use this long alias"
+ ],
+ "button.kids_room_sensor_hub_2_identify": [
+  "Kids Room Sensor Hub 2 Identify"
+ ],
+ "button.kids_room_sensor_hub_4_identify": [
+  "Kids Room Sensor Hub 4 Identify"
+ ],
+ "button.kids_room_sensor_hub_5_identify": [
+  "Kids Room Sensor Hub 5 Identify"
+ ],
+ "button.kids_room_sensor_hub_6_identify": [
+  "Kids Room Sensor Hub 6 Identify"
+ ],
+ "button.kitchen_sensor_hub_1_identify": [
+  "Kitchen Sensor Hub 1 Identify"
+ ],
+ "button.kitchen_sensor_hub_4_identify": [
+  "Kitchen Sensor Hub 4 Identify",
+  "Kitchen identify please use this long alias"
+ ],
+ "button.kitchen_sensor_hub_5_identify": [
+  "Kitchen Sensor Hub 5 Identify"
+ ],
+ "button.kitchen_sensor_hub_6_identify": [
+  "Kitchen Sensor Hub 6 Identify"
+ ],
+ "button.living_room_sensor_hub_4_identify": [
+  "Living Room Sensor Hub 4 Identify",
+  "Living Room identify please use this long alias"
+ ],
+ "button.living_room_sensor_hub_5_identify": [
+  "Living Room Sensor Hub 5 Identify"
+ ],
+ "button.living_room_sensor_hub_6_identify": [
+  "Living Room Sensor Hub 6 Identify"
+ ],
+ "button.office_sensor_hub_3_identify": [
+  "Office Sensor Hub 3 Identify",
+  "Office identify please use this long alias"
+ ],
+ "button.office_sensor_hub_4_identify": [
+  "Office Sensor Hub 4 Identify"
+ ],
+ "button.office_sensor_hub_6_identify": [
+  "Office Sensor Hub 6 Identify"
+ ],
+ "light.bathroom_sensor_hub_1_light": [
+  "Bathroom Sensor Hub 1 Light"
+ ],
+ "light.bathroom_sensor_hub_2_light": [
+  "Bathroom Sensor Hub 2 Light"
+ ],
+ "light.bathroom_sensor_hub_4_light": [
+  "Bathroom Sensor Hub 4 Light"
+ ],
+ "light.bathroom_sensor_hub_5_light": [
+  "Bathroom Sensor Hub 5 Light",
+  "Bathroom light please use this long alias"
+ ],
+ "light.bedroom_sensor_hub_2_light": [
+  "Bedroom Sensor Hub 2 Light"
+ ],
+ "light.bedroom_sensor_hub_5_light": [
+  "Bedroom Sensor Hub 5 Light"
+ ],
+ "light.garage_sensor_hub_3_light": [
+  "Garage Sensor Hub 3 Light"
+ ],
+ "light.garden_sensor_hub_1_light": [
+  "Garden Sensor Hub 1 Light"
+ ],
+ "light.garden_sensor_hub_4_light": [
+  "Garden Sensor Hub 4 Light"
+ ],
+ "light.garden_sensor_hub_5_light": [
+  "Garden Sensor Hub 5 Light"
+ ],
+ "light.kids_room_sensor_hub_1_light": [
+  "Kids Room Sensor Hub 1 Light",
+  "Kids Room light please use this long alias"
+ ],
+ "light.kids_room_sensor_hub_2_light": [
+  "Kids Room Sensor Hub 2 Light",
+  "Kids Room light please use this long alias"
+ ],
+ "light.kids_room_sensor_hub_5_light": [
+  "Kids Room Sensor Hub 5 Light"
+ ],
+ "light.kids_room_sensor_hub_6_light": [
+  "Kids Room Sensor Hub 6 Light",
+  "Kids Room light please use this long alias"
+ ],
+ "light.kitchen_sensor_hub_1_light": [
+  "Kitchen Sensor Hub 1 Light",
+  "Kitchen light please use this long alias"
+ ],
+ "light.kitchen_sensor_hub_2_light": [
+  "Kitchen Sensor Hub 2 Light"
+ ],
+ "light.kitchen_sensor_hub_3_light": [
+  "Kitchen Sensor Hub 3 Light"
+ ],
+ "light.kitchen_sensor_hub_4_light": [
+  "Kitchen Sensor Hub 4 Light"
+ ],
+ "light.kitchen_sensor_hub_6_light": [
+  "Kitchen Sensor Hub 6 Light"
+ ],
+ "light.living_room_sensor_hub_1_light": [
+  "Living Room Sensor Hub 1 Light"
+ ],
+ "light.living_room_sensor_hub_2_light": [
+  "Living Room Sensor Hub 2 Light",
+  "Living Room light please use this long alias"
+ ],
+ "light.living_room_sensor_hub_3_light": [
+  "Living Room Sensor Hub 3 Light"
+ ],
+ "light.living_room_sensor_hub_6_light": [
+  "Living Room Sensor Hub 6 Light"
+ ],
+ "light.office_sensor_hub_1_light": [
+  "Office Sensor Hub 1 Light",
+  "Office light please use this long alias"
+ ],
+ "light.office_sensor_hub_2_light": [
+  "Office Sensor Hub 2 Light"
+ ],
+ "light.office_sensor_hub_4_light": [
+  "Office Sensor Hub 4 Light"
+ ],
+ "light.office_sensor_hub_5_light": [
+  "Office Sensor Hub 5 Light"
+ ],
+ "light.office_sensor_hub_6_light": [
+  "Office Sensor Hub 6 Light"
+ ],
+ "light.office_sensor_hub_7_light": [
+  "Office Sensor Hub 7 Light"
+ ],
+ "script.good_night": [
+  "Good Night"
+ ],
+ "script.leaving_home": [
+  "Leaving Home"
+ ],
+ "script.movie_mode": [
+  "Movie Mode"
+ ],
+ "sensor.bathroom_sensor_hub_1_humidity": [
+  "Bathroom Sensor Hub 1 Humidity"
+ ],
+ "sensor.bathroom_sensor_hub_1_temperature": [
+  "Bathroom Sensor Hub 1 Temperature"
+ ],
+ "sensor.bathroom_sensor_hub_2_humidity": [
+  "Bathroom Sensor Hub 2 Humidity",
+  "Bathroom humidity please use this long alias"
+ ],
+ "sensor.bathroom_sensor_hub_2_signal_strength": [
+  "Bathroom Sensor Hub 2 Signal strength"
+ ],
+ "sensor.bathroom_sensor_hub_2_temperature": [
+  "Bathroom Sensor Hub 2 Temperature"
+ ],
+ "sensor.bathroom_sensor_hub_3_battery": [
+  "Bathroom Sensor Hub 3 Battery"
+ ],
+ "sensor.bathroom_sensor_hub_3_temperature": [
+  "Bathroom Sensor Hub 3 Temperature",
+  "Bathroom temperature please use this long alias"
+ ],
+ "sensor.bathroom_sensor_hub_4_battery": [
+  "Bathroom Sensor Hub 4 Battery"
+ ],
+ "sensor.bathroom_sensor_hub_4_humidity": [
+  "Bathroom Sensor Hub 4 Humidity"
+ ],
+ "sensor.bathroom_sensor_hub_5_battery": [
+  "Bathroom Sensor Hub 5 Battery"
+ ],
+ "sensor.bathroom_sensor_hub_5_temperature": [
+  "Bathroom Sensor Hub 5 Temperature",
+  "Bathroom temperature please use this long alias"
+ ],
+ "sensor.bedroom_sensor_hub_1_battery": [
+  "Bedroom Sensor Hub 1 Battery"
+ ],
+ "sensor.bedroom_sensor_hub_1_humidity": [
+  "Bedroom Sensor Hub 1 Humidity"
+ ],
+ "sensor.bedroom_sensor_hub_1_temperature": [
+  "Bedroom Sensor Hub 1 Temperature"
+ ],
+ "sensor.bedroom_sensor_hub_2_humidity": [
+  "Bedroom Sensor Hub 2 Humidity"
+ ],
+ "sensor.bedroom_sensor_hub_4_humidity": [
+  "Bedroom Sensor Hub 4 Humidity"
+ ],
+ "sensor.bedroom_sensor_hub_5_battery": [
+  "Bedroom Sensor Hub 5 Battery"
+ ],
+ "sensor.bedroom_sensor_hub_5_humidity": [
+  "Bedroom Sensor Hub 5 Humidity"
+ ],
+ "sensor.bedroom_sensor_hub_5_temperature": [
+  "Bedroom Sensor Hub 5 Temperature",
+  "Bedroom temperature please use this long alias"
+ ],
+ "sensor.bedroom_sensor_hub_6_battery": [
+  "Bedroom Sensor Hub 6 Battery"
+ ],
+ "sensor.bedroom_sensor_hub_6_humidity": [
+  "Bedroom Sensor Hub 6 Humidity"
+ ],
+ "sensor.garage_sensor_hub_1_battery": [
+  "Garage Sensor Hub 1 Battery"
+ ],
+ "sensor.garage_sensor_hub_1_temperature": [
+  "Garage Sensor Hub 1 Temperature"
+ ],
+ "sensor.garage_sensor_hub_2_battery": [
+  "Garage Sensor Hub 2 Battery",
+  "Garage battery please use this long alias"
+ ],
+ "sensor.garage_sensor_hub_2_humidity": [
+  "Garage Sensor Hub 2 Humidity"
+ ],
+ "sensor.garage_sensor_hub_2_signal_strength": [
+  "Garage Sensor Hub 2 Signal strength"
+ ],
+ "sensor.garage_sensor_hub_2_temperature": [
+  "Garage Sensor Hub 2 Temperature"
+ ],
+ "sensor.garage_sensor_hub_3_battery": [
+  "Garage Sensor Hub 3 Battery"
+ ],
+ "sensor.garage_sensor_hub_3_signal_strength": [
+  "Garage Sensor Hub 3 Signal strength"
+ ],
+ "sensor.garage_sensor_hub_3_temperature": [
+  "Garage Sensor Hub 3 Temperature"
+ ],
+ "sensor.garage_sensor_hub_4_battery": [
+  "Garage Sensor Hub 4 Battery"
+ ],
+ "sensor.garden_sensor_hub_1_signal_strength": [
+  "Garden Sensor Hub 1 Signal strength",
+  "Garden signal strength please use this long alias"
+ ],
+ "sensor.garden_sensor_hub_1_temperature": [
+  "Garden Sensor Hub 1 Temperature"
+ ],
+ "sensor.garden_sensor_hub_2_battery": [
+  "Garden Sensor Hub 2 Battery",
+  "Garden battery please use this long alias"
+ ],
+ "sensor.garden_sensor_hub_3_battery": [
+  "Garden Sensor Hub 3 Battery"
+ ],
+ "sensor.garden_sensor_hub_3_humidity": [
+  "Garden Sensor Hub 3 Humidity"
+ ],
+ "sensor.garden_sensor_hub_3_temperature": [
+  "Garden Sensor Hub 3 Temperature"
+ ],
+ "sensor.garden_sensor_hub_4_humidity": [
+  "Garden Sensor Hub 4 Humidity",
+  "Garden humidity please use this long alias"
+ ],
+ "sensor.garden_sensor_hub_5_battery": [
+  "Garden Sensor Hub 5 Battery"
+ ],
+ "sensor.garden_sensor_hub_5_signal_strength": [
+  "Garden Sensor Hub 5 Signal strength"
+ ],
+ "sensor.garden_sensor_hub_6_humidity": [
+  "Garden Sensor Hub 6 Humidity"
+ ],
+ "sensor.garden_sensor_hub_6_signal_strength": [
+  "Garden Sensor Hub 6 Signal strength"
+ ],
+ "sensor.kids_room_sensor_hub_1_signal_strength": [
+  "Kids Room Sensor Hub 1 Signal strength"
+ ],
+ "sensor.kids_room_sensor_hub_1_temperature": [
+  "Kids Room Sensor Hub 1 Temperature"
+ ],
+ "sensor.kids_room_sensor_hub_2_battery": [
+  "Kids Room Sensor Hub 2 Battery"
+ ],
+ "sensor.kids_room_sensor_hub_3_battery": [
+  "Kids Room Sensor Hub 3 Battery"
+ ],
+ "sensor.kids_room_sensor_hub_3_signal_strength": [
+  "Kids Room Sensor Hub 3 Signal strength",
+  "Kids Room signal strength please use this long alias"
+ ],
+ "sensor.kids_room_sensor_hub_3_temperature": [
+  "Kids Room Sensor Hub 3 Temperature",
+  "Kids Room temperature please use this long alias"
+ ],
+ "sensor.kids_room_sensor_hub_4_humidity": [
+  "Kids Room Sensor Hub 4 Humidity"
+ ],
+ "sensor.kids_room_sensor_hub_4_signal_strength": [
+  "Kids Room Sensor Hub 4 Signal strength"
+ ],
+ "sensor.kids_room_sensor_hub_4_temperature": [
+  "Kids Room Sensor Hub 4 Temperature",
+  "Kids Room temperature please use this long alias"
+ ],
+ "sensor.kids_room_sensor_hub_5_humidity": [
+  "Kids Room Sensor Hub 5 Humidity"
+ ],
+ "sensor.kids_room_sensor_hub_5_temperature": [
+  "Kids Room Sensor Hub 5 Temperature"
+ ],
+ "sensor.kids_room_sensor_hub_6_battery": [
+  "Kids Room Sensor Hub 6 Battery"
+ ],
+ "sensor.kids_room_sensor_hub_6_humidity": [
+  "Kids Room Sensor Hub 6 Humidity"
+ ],
+ "sensor.kitchen_sensor_hub_1_battery": [
+  "Kitchen Sensor Hub 1 Battery"
+ ],
+ "sensor.kitchen_sensor_hub_1_signal_strength": [
+  "Kitchen Sensor Hub 1 Signal strength"
+ ],
+ "sensor.kitchen_sensor_hub_1_temperature": [
+  "Kitchen Sensor Hub 1 Temperature"
+ ],
+ "sensor.kitchen_sensor_hub_2_battery": [
+  "Kitchen Sensor Hub 2 Battery"
+ ],
+ "sensor.kitchen_sensor_hub_2_humidity": [
+  "Kitchen Sensor Hub 2 Humidity"
+ ],
+ "sensor.kitchen_sensor_hub_2_signal_strength": [
+  "Kitchen Sensor Hub 2 Signal strength",
+  "Kitchen signal strength please use this long alias"
+ ],
+ "sensor.kitchen_sensor_hub_2_temperature": [
+  "Kitchen Sensor Hub 2 Temperature",
+  "Kitchen temperature please use this long alias"
+ ],
+ "sensor.kitchen_sensor_hub_3_humidity": [
+  "Kitchen Sensor Hub 3 Humidity",
+  "Kitchen humidity please use this long alias"
+ ],
+ "sensor.kitchen_sensor_hub_3_signal_strength": [
+  "Kitchen Sensor Hub 3 Signal strength",
+  "Kitchen signal strength please use this long alias"
+ ],
+ "sensor.kitchen_sensor_hub_4_temperature": [
+  "Kitchen Sensor Hub 4 Temperature"
+ ],
+ "sensor.kitchen_sensor_hub_5_signal_strength": [
+  "Kitchen Sensor Hub 5 Signal strength",
+  "Kitchen signal strength please use this long alias"
+ ],
+ "sensor.kitchen_sensor_hub_5_temperature": [
+  "Kitchen Sensor Hub 5 Temperature"
+ ],
+ "sensor.kitchen_sensor_hub_6_signal_strength": [
+  "Kitchen Sensor Hub 6 Signal strength"
+ ],
+ "sensor.kitchen_sensor_hub_6_temperature": [
+  "Kitchen Sensor Hub 6 Temperature"
+ ],
+ "sensor.kitchen_sensor_hub_7_battery": [
+  "Kitchen Sensor Hub 7 Battery"
+ ],
+ "sensor.kitchen_sensor_hub_7_signal_strength": [
+  "Kitchen Sensor Hub 7 Signal strength"
+ ],
+ "sensor.living_room_sensor_hub_1_battery": [
+  "Living Room Sensor Hub 1 Battery"
+ ],
+ "sensor.living_room_sensor_hub_1_temperature": [
+  "Living Room Sensor Hub 1 Temperature",
+  "Living Room temperature please use this long alias"
+ ],
+ "sensor.living_room_sensor_hub_3_humidity": [
+  "Living Room Sensor Hub 3 Humidity",
+  "Living Room humidity please use this long alias"
+ ],
+ "sensor.living_room_sensor_hub_3_temperature": [
+  "Living Room Sensor Hub 3 Temperature",
+  "Living Room temperature please use this long alias"
+ ],
+ "sensor.living_room_sensor_hub_4_battery": [
+  "Living Room Sensor Hub 4 Battery"
+ ],
+ "sensor.living_room_sensor_hub_4_humidity": [
+  "Living Room Sensor Hub 4 Humidity"
+ ],
+ "sensor.living_room_sensor_hub_4_signal_strength": [
+  "Living Room Sensor Hub 4 Signal strength"
+ ],
+ "sensor.living_room_sensor_hub_4_temperature": [
+  "Living Room Sensor Hub 4 Temperature"
+ ],
+ "sensor.living_room_sensor_hub_5_battery": [
+  "Living Room Sensor Hub 5 Battery"
+ ],
+ "sensor.living_room_sensor_hub_5_humidity": [
+  "Living Room Sensor Hub 5 Humidity"
+ ],
+ "sensor.living_room_sensor_hub_5_temperature": [
+  "Living Room Sensor Hub 5 Temperature"
+ ],
+ "sensor.living_room_sensor_hub_6_signal_strength": [
+  "Living Room Sensor Hub 6 Signal strength"
+ ],
+ "sensor.living_room_sensor_hub_6_temperature": [
+  "Living Room Sensor Hub 6 Temperature",
+  "Living Room temperature please use this long alias"
+ ],
+ "sensor.office_sensor_hub_1_battery": [
+  "Office Sensor Hub 1 Battery"
+ ],
+ "sensor.office_sensor_hub_1_humidity": [
+  "Office Sensor Hub 1 Humidity"
+ ],
+ "sensor.office_sensor_hub_1_signal_strength": [
+  "Office Sensor Hub 1 Signal strength"
+ ],
+ "sensor.office_sensor_hub_1_temperature": [
+  "Office Sensor Hub 1 Temperature"
+ ],
+ "sensor.office_sensor_hub_2_battery": [
+  "Office Sensor Hub 2 Battery"
+ ],
+ "sensor.office_sensor_hub_2_humidity": [
+  "Office Sensor Hub 2 Humidity",
+  "Office humidity please use this long alias"
+ ],
+ "sensor.office_sensor_hub_2_signal_strength": [
+  "Office Sensor Hub 2 Signal strength"
+ ],
+ "sensor.office_sensor_hub_2_temperature": [
+  "Office Sensor Hub 2 Temperature",
+  "Office temperature please use this long alias"
+ ],
+ "sensor.office_sensor_hub_3_battery": [
+  "Office Sensor Hub 3 Battery",
+  "Office battery please use this long alias"
+ ],
+ "sensor.office_sensor_hub_3_humidity": [
+  "Office Sensor Hub 3 Humidity",
+  "Office humidity please use this long alias"
+ ],
+ "sensor.office_sensor_hub_3_signal_strength": [
+  "Office Sensor Hub 3 Signal strength"
+ ],
+ "sensor.office_sensor_hub_4_humidity": [
+  "Office Sensor Hub 4 Humidity"
+ ],
+ "sensor.office_sensor_hub_4_signal_strength": [
+  "Office Sensor Hub 4 Signal strength"
+ ],
+ "sensor.office_sensor_hub_5_humidity": [
+  "Office Sensor Hub 5 Humidity",
+  "Office humidity please use this long alias"
+ ],
+ "sensor.office_sensor_hub_5_temperature": [
+  "Office Sensor Hub 5 Temperature"
+ ],
+ "sensor.office_sensor_hub_6_battery": [
+  "Office Sensor Hub 6 Battery"
+ ],
+ "sensor.office_sensor_hub_6_signal_strength": [
+  "Office Sensor Hub 6 Signal strength"
+ ],
+ "sensor.office_sensor_hub_7_battery": [
+  "Office Sensor Hub 7 Battery"
+ ],
+ "sensor.office_sensor_hub_7_signal_strength": [
+  "Office Sensor Hub 7 Signal strength",
+  "Office signal strength please use this long alias"
+ ],
+ "switch.bathroom_sensor_hub_2_plug": [
+  "Bathroom Sensor Hub 2 Plug"
+ ],
+ "switch.bathroom_sensor_hub_4_plug": [
+  "Bathroom Sensor Hub 4 Plug"
+ ],
+ "switch.bedroom_sensor_hub_1_plug": [
+  "Bedroom Sensor Hub 1 Plug"
+ ],
+ "switch.bedroom_sensor_hub_2_plug": [
+  "Bedroom Sensor Hub 2 Plug"
+ ],
+ "switch.bedroom_sensor_hub_3_plug": [
+  "Bedroom Sensor Hub 3 Plug"
+ ],
+ "switch.bedroom_sensor_hub_6_plug": [
+  "Bedroom Sensor Hub 6 Plug"
+ ],
+ "switch.garage_sensor_hub_1_plug": [
+  "Garage Sensor Hub 1 Plug"
+ ],
+ "switch.garage_sensor_hub_2_plug": [
+  "Garage Sensor Hub 2 Plug"
+ ],
+ "switch.garage_sensor_hub_3_plug": [
+  "Garage Sensor Hub 3 Plug",
+  "Garage plug please use this long alias"
+ ],
+ "switch.garden_sensor_hub_1_plug": [
+  "Garden Sensor Hub 1 Plug"
+ ],
+ "switch.garden_sensor_hub_2_plug": [
+  "Garden Sensor Hub 2 Plug",
+  "Garden plug please use this long alias"
+ ],
+ "switch.garden_sensor_hub_3_plug": [
+  "Garden Sensor Hub 3 Plug"
+ ],
+ "switch.garden_sensor_hub_4_plug": [
+  "Garden Sensor Hub 4 Plug"
+ ],
+ "switch.garden_sensor_hub_5_plug": [
+  "Garden Sensor Hub 5 Plug"
+ ],
+ "switch.garden_sensor_hub_6_plug": [
+  "Garden Sensor Hub 6 Plug"
+ ],
+ "switch.kids_room_sensor_hub_1_plug": [
+  "Kids Room Sensor Hub 1 Plug"
+ ],
+ "switch.kids_room_sensor_hub_2_plug": [
+  "Kids Room Sensor Hub 2 Plug",
+  "Kids Room plug please use this long alias"
+ ],
+ "switch.kids_room_sensor_hub_4_plug": [
+  "Kids Room Sensor Hub 4 Plug"
+ ],
+ "switch.kids_room_sensor_hub_5_plug": [
+  "Kids Room Sensor Hub 5 Plug"
+ ],
+ "switch.kids_room_sensor_hub_6_plug": [
+  "Kids Room Sensor Hub 6 Plug"
+ ],
+ "switch.kitchen_sensor_hub_1_plug": [
+  "Kitchen Sensor Hub 1 Plug"
+ ],
+ "switch.kitchen_sensor_hub_2_plug": [
+  "Kitchen Sensor Hub 2 Plug"
+ ],
+ "switch.kitchen_sensor_hub_6_plug": [
+  "Kitchen Sensor Hub 6 Plug"
+ ],
+ "switch.living_room_sensor_hub_1_plug": [
+  "Living Room Sensor Hub 1 Plug"
+ ],
+ "switch.living_room_sensor_hub_2_plug": [
+  "Living Room Sensor Hub 2 Plug",
+  "Living Room plug please use this long alias"
+ ],
+ "switch.living_room_sensor_hub_3_plug": [
+  "Living Room Sensor Hub 3 Plug"
+ ],
+ "switch.living_room_sensor_hub_5_plug": [
+  "Living Room Sensor Hub 5 Plug"
+ ],
+ "switch.living_room_sensor_hub_6_plug": [
+  "Living Room Sensor Hub 6 Plug"
+ ],
+ "switch.office_sensor_hub_2_plug": [
+  "Office Sensor Hub 2 Plug"
+ ],
+ "switch.office_sensor_hub_3_plug": [
+  "Office Sensor Hub 3 Plug"
+ ],
+ "switch.office_sensor_hub_6_plug": [
+  "Office Sensor Hub 6 Plug"
+ ],
+ "switch.office_sensor_hub_7_plug": [
+  "Office Sensor Hub 7 Plug"
+ ],
+ "update.bathroom_sensor_hub_3_firmware": [
+  "Bathroom Sensor Hub 3 Firmware"
+ ],
+ "update.bedroom_sensor_hub_1_firmware": [
+  "Bedroom Sensor Hub 1 Firmware"
+ ],
+ "update.bedroom_sensor_hub_2_firmware": [
+  "Bedroom Sensor Hub 2 Firmware"
+ ],
+ "update.bedroom_sensor_hub_5_firmware": [
+  "Bedroom Sensor Hub 5 Firmware"
+ ],
+ "update.garage_sensor_hub_1_firmware": [
+  "Garage Sensor Hub 1 Firmware"
+ ],
+ "update.garage_sensor_hub_2_firmware": [
+  "Garage Sensor Hub 2 Firmware"
+ ],
+ "update.garage_sensor_hub_3_firmware": [
+  "Garage Sensor Hub 3 Firmware",
+  "Garage firmware please use this long alias"
+ ],
+ "update.garden_sensor_hub_1_firmware": [
+  "Garden Sensor Hub 1 Firmware"
+ ],
+ "update.garden_sensor_hub_3_firmware": [
+  "Garden Sensor Hub 3 Firmware"
+ ],
+ "update.garden_sensor_hub_5_firmware": [
+  "Garden Sensor Hub 5 Firmware",
+  "Garden firmware please use this long alias"
+ ],
+ "update.garden_sensor_hub_6_firmware": [
+  "Garden Sensor Hub 6 Firmware"
+ ],
+ "update.kids_room_sensor_hub_2_firmware": [
+  "Kids Room Sensor Hub 2 Firmware",
+  "Kids Room firmware please use this long alias"
+ ],
+ "update.kids_room_sensor_hub_3_firmware": [
+  "Kids Room Sensor Hub 3 Firmware"
+ ],
+ "update.kids_room_sensor_hub_4_firmware": [
+  "Kids Room Sensor Hub 4 Firmware"
+ ],
+ "update.kids_room_sensor_hub_5_firmware": [
+  "Kids Room Sensor Hub 5 Firmware"
+ ],
+ "update.kids_room_sensor_hub_6_firmware": [
+  "Kids Room Sensor Hub 6 Firmware"
+ ],
+ "update.kitchen_sensor_hub_1_firmware": [
+  "Kitchen Sensor Hub 1 Firmware"
+ ],
+ "update.kitchen_sensor_hub_3_firmware": [
+  "Kitchen Sensor Hub 3 Firmware"
+ ],
+ "update.kitchen_sensor_hub_4_firmware": [
+  "Kitchen Sensor Hub 4 Firmware"
+ ],
+ "update.kitchen_sensor_hub_7_firmware": [
+  "Kitchen Sensor Hub 7 Firmware"
+ ],
+ "update.living_room_sensor_hub_1_firmware": [
+  "Living Room Sensor Hub 1 Firmware"
+ ],
+ "update.living_room_sensor_hub_2_firmware": [
+  "Living Room Sensor Hub 2 Firmware",
+  "Living Room firmware please use this long alias"
+ ],
+ "update.living_room_sensor_hub_5_firmware": [
+  "Living Room Sensor Hub 5 Firmware"
+ ],
+ "update.office_sensor_hub_1_firmware": [
+  "Office Sensor Hub 1 Firmware",
+  "Office firmware please use this long alias"
+ ],
+ "update.office_sensor_hub_2_firmware": [
+  "Office Sensor Hub 2 Firmware"
+ ],
+ "update.office_sensor_hub_3_firmware": [
+  "Office Sensor Hub 3 Firmware"
+ ],
+ "update.office_sensor_hub_5_firmware": [
+  "Office Sensor Hub 5 Firmware",
+  "Office firmware please use this long alias"
+ ],
+ "update.office_sensor_hub_6_firmware": [
+  "Office Sensor Hub 6 Firmware"
+ ],
+ "update.office_sensor_hub_7_firmware": [
+  "Office Sensor Hub 7 Firmware",
+  "Office firmware please use this long alias"
+ ]
+}
