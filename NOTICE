@@ -1,0 +1,9 @@
+assist-budget bundles prompt strings and default exposure rules taken from Home Assistant core 2026.11.3 and 2026.7.0 (https://github.com/home-assistant/core), which is licensed under the Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+
+Copied: the Assist prompt texts (src/assist_budget/data/prompts.json) and the default exposure tables (src/assist_budget/expose.py), from
+  homeassistant/components/homeassistant/llm.py
+  homeassistant/components/intent/llm.py
+  homeassistant/helpers/llm.py
+  homeassistant/components/homeassistant/exposed_entities.py
+
+The sample house under src/assist_budget/data/house and tests/fixtures was written by Home Assistant 2026.11.3 itself from synthetic data (no real home).

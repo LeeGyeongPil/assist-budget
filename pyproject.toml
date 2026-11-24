@@ -1,0 +1,53 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "assist-budget"
+version = "0.1.0"
+description = "Measure what Home Assistant Assist sends to your LLM, trim it to fit the context window, and undo it safely."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "NOTICE"]
+requires-python = ">=3.11"
+authors = [{ name = "LeeGyeongPil" }]
+keywords = ["home-assistant", "assist", "llm", "ollama", "tokens", "context-window", "cli"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Topic :: Home Automation",
+]
+dependencies = [
+  "PyYAML>=6.0.3,<7",
+  "websockets>=17.4,<18",
+]
+
+[project.optional-dependencies]
+tekken = ["mistral-common==1.13.1"]
+
+[project.urls]
+Homepage = "https://github.com/LeeGyeongPil/assist-budget"
+Issues = "https://github.com/LeeGyeongPil/assist-budget/issues"
+
+[project.scripts]
+assist-budget = "assist_budget.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8.3"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/assist_budget"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "tools", "README.md", "README.ko.md", "LICENSE", "NOTICE", "CHANGELOG.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
