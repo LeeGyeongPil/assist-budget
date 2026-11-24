@@ -1,6 +1,6 @@
 """assist-budget: measure and trim what Home Assistant Assist sends to an LLM."""
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 # Exit codes shared by the CLI and the tests.
 EXIT_OK = 0

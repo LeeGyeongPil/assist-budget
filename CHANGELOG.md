@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-11-24
+
+### Fixed
+- CI: rewrite the test workflow.
+- README: `--version` example now matches the real output.
+
 ## [0.1.1] - 2026-11-24
 
 ### Fixed
