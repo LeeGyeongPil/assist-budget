@@ -1,5 +1,9 @@
 # Tests need no Home Assistant, no token and no network: they run on the committed
 # fixtures (written by a real Home Assistant 2026.11.3) and an in-process fake server.
+#
+# Only GitHub-owned actions are used, so the workflow also runs where an account or
+# organisation allows "GitHub actions only". uv is installed with pip at the exact
+# version that wrote uv.lock, so `--locked` never depends on whatever uv is newest.
 name: ci
 on:
   push:
@@ -7,19 +11,27 @@ on:
   schedule:
     - cron: "17 3 * * 1"   # every Monday: catch dependency or runtime changes
   workflow_dispatch:
+permissions:
+  contents: read
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 15   # the whole job takes about a minute; never burn hours on a hang
     strategy:
       fail-fast: false
       matrix:
         python: ["3.11", "3.14"]
     steps:
-      - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v10.4.0
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install uv (the version that wrote uv.lock)
+        run: python -m pip install "uv==0.13.6"
+      - run: uv --version
       - run: uv sync --locked --python ${{ matrix.python }}
-      - run: uv run --python ${{ matrix.python }} pytest -q
+      - run: uv run --locked --python ${{ matrix.python }} pytest -q
       - name: Offline Tekken tokenizer (optional extra)
-        run: uv run --python ${{ matrix.python }} --extra tekken pytest -q tests/test_tokenize.py
+        run: uv run --locked --python ${{ matrix.python }} --extra tekken pytest -q tests/test_tokenize.py
       - name: Demo runs offline
-        run: uv run --python ${{ matrix.python }} assist-budget --lang en demo --ctx 4096
+        run: uv run --locked --python ${{ matrix.python }} assist-budget --lang en demo --ctx 4096
