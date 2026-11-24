@@ -155,6 +155,8 @@ uv run assist-budget undo undo-<시각>.yaml --url ws://homeassistant.local:8123
 | `ASSIST_BUDGET_LANG` | 출력 언어 `en` 또는 `ko`. |
 | `--lang en\|ko` | 출력 언어. 변수보다 우선. 순서: `--lang`, `ASSIST_BUDGET_LANG`, `LC_ALL`, `LC_MESSAGES`, `LANG`, `ko` 로 시작하지 않으면 영어. `--lang` 은 하위 명령 앞에 둡니다. |
 
+## 지원 버전
+
 지원하는 Home Assistant 버전:
 
 | 버전 | 프로필 | 상태 |
@@ -198,6 +200,12 @@ flowchart LR
 | "unverified profile" 경고 | 2026.11 만 바이트 단위로 검증됨 | 숫자를 추정치로 보고 여유를 유지 |
 | `--tokenizer tekken` 이 종료 2 | 선택 extra 없음 | `pip install 'assist-budget[tekken]'`, clone 이면 `uv run --extra tekken assist-budget report ... --tokenizer tekken` |
 | 의도치 않게 한국어로 나옴 | `LANG` 이 한국어 | `--lang en` 추가 (하위 명령 앞에: `assist-budget --lang en demo`) |
+
+## 안전
+
+- `.storage` 는 읽기 전용으로만 열며, `report`·`suggest` 는 아무것도 바꾸지 않습니다.
+- `apply` 는 `--yes` 가 없으면 드라이런이고, 되돌리기 파일을 먼저 쓰며 `undo` 로 복원합니다.
+- 토큰은 `HA_TOKEN` 에서만 읽고 출력·파일에 쓰지 않습니다. `ws://` 는 암호화 없이 보내므로 믿을 수 있는 LAN 밖에서는 `wss://` 를 쓰세요. [SECURITY.md](SECURITY.md) 참고.
 
 ## 한계
 

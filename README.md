@@ -155,6 +155,8 @@ Trim rules used by `suggest` (an entity with at least one reason is a candidate;
 | `ASSIST_BUDGET_LANG` | Output language `en` or `ko`. |
 | `--lang en\|ko` | Output language; beats the variable. Order: `--lang`, `ASSIST_BUDGET_LANG`, `LC_ALL`, `LC_MESSAGES`, `LANG`; anything not starting with `ko` means English. Put `--lang` before the subcommand. |
 
+## Supported versions
+
 Supported Home Assistant versions:
 
 | Version | Profile | Status |
@@ -198,6 +200,12 @@ flowchart LR
 | "unverified profile" warning | Only 2026.11 is checked byte for byte | Treat numbers as estimates and keep the margin |
 | `--tokenizer tekken` exits 2 | Optional extra missing | `pip install 'assist-budget[tekken]'`, or from a clone `uv run --extra tekken assist-budget report ... --tokenizer tekken` |
 | Output is Korean by accident | `LANG` is Korean | Add `--lang en` (put it before the subcommand: `assist-budget --lang en demo`) |
+
+## Safety
+
+- `.storage` is opened read-only; `report` and `suggest` never change anything.
+- `apply` is a dry run unless you pass `--yes`; it writes the undo file first, and `undo` restores it.
+- The token is read only from `HA_TOKEN` and is never printed or written to files. `ws://` sends it unencrypted, so use `wss://` outside a trusted LAN. See [SECURITY.md](SECURITY.md).
 
 ## Limitations
 

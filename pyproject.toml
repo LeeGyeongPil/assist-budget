@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "assist-budget"
-version = "0.1.0"
+version = "0.1.1"
 description = "Measure what Home Assistant Assist sends to your LLM, trim it to fit the context window, and undo it safely."
 readme = "README.md"
 license = "MIT"

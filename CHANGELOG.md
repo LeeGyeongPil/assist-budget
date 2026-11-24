@@ -6,6 +6,14 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-24
+
+### Fixed
+- CI: update GitHub Actions versions in the test workflow.
+
+### Changed
+- README: Safety and Supported versions are now their own sections.
+
 ## [0.1.0] - 2026-11-24
 
 ### Added
