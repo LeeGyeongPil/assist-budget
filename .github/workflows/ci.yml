@@ -1,0 +1,25 @@
+# Tests need no Home Assistant, no token and no network: they run on the committed
+# fixtures (written by a real Home Assistant 2026.11.3) and an in-process fake server.
+name: ci
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "17 3 * * 1"   # every Monday: catch dependency or runtime changes
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.14"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked --python ${{ matrix.python }}
+      - run: uv run --python ${{ matrix.python }} pytest -q
+      - name: Offline Tekken tokenizer (optional extra)
+        run: uv run --python ${{ matrix.python }} --extra tekken pytest -q tests/test_tokenize.py
+      - name: Demo runs offline
+        run: uv run --python ${{ matrix.python }} assist-budget --lang en demo --ctx 4096
