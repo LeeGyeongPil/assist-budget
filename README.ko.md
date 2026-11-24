@@ -26,7 +26,7 @@ uv run assist-budget --version
 ```
 
 ```text
-assist-budget 0.1.2
+assist-budget 0.1.3
 ```
 
 PyPI 에 올라가면 `pip install assist-budget` 도 됩니다. 정확한 토큰 계산(선택): `pip install 'assist-budget[tekken]'`, clone 해서 쓰면 `uv run --extra tekken assist-budget ...`.

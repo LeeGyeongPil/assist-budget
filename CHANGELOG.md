@@ -6,6 +6,11 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.3] - 2026-11-24
+
+### Changed
+- CI: use the standard workflow (setup-uv, single job). This is intentionally simpler: it no longer runs a Python version matrix, pins uv, or sets `permissions` / `timeout-minutes`.
+
 ## [0.1.2] - 2026-11-24
 
 ### Fixed

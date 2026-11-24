@@ -26,7 +26,7 @@ uv run assist-budget --version
 ```
 
 ```text
-assist-budget 0.1.2
+assist-budget 0.1.3
 ```
 
 Once the package is on PyPI you can also use `pip install assist-budget`. Optional exact token counting: `pip install 'assist-budget[tekken]'`, or from a clone `uv run --extra tekken assist-budget ...`.
